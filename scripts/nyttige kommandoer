@@ -1,0 +1,4 @@
+ln .vimrc repo/dots/vim/.vimrc #Lager en link for filen .vimrc i mappen (med navn) repo/dots/..osv
+			       #nyttig hvis en fil må ligge på et sted og du ønsker å ha en backup
+			       # på f.eks github
+
